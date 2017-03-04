@@ -1,6 +1,12 @@
 译者注：由于本人水平有限，译文中难免会出现概念模糊、晦涩难懂，如果实在没心思看下去，请发挥你的学习能动性，到原文中自行翻译，感谢！！！点[这里](http://www.electronics-tutorials.ws/dccircuits/dcp_1.html)，直达英文各种长句的世界。
 
-好了，既然你选择继续往下看，那就一起来学习吧！！！么么哒！！！
+好了，既然你选择继续往下看，那就一起来学习吧！！！
+
+译者：Noddy
+
+地址：[直流电路理论](https://github.com/NoddyLiu/study_android_things/blob/master/posts/DC_Circuit_Theory.md)
+
+如果你喜欢本译文，请到项目上star一下，点个赞吧，么么哒！！！
 
 # 前言：在电气科学或者电路图中，电压、电流和电阻三者之间的关系统称为欧姆定理。
 
@@ -63,4 +69,3 @@
 
 此外，由于交流电（和电压）是周期性的并且随时间变化，其“有效”电流值（RMS，符号I<sub>rms</sub>，均方根值）产生等效于直流电平均功率（符号I<sub>average</sub>）的损耗。电流和电压更好相反，它们喜欢短路或者闭路电路条件，但讨厌开路条件，因为开路中，没有电流流过。
 
-Using the tank of water relationship,
