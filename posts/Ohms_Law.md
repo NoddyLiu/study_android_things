@@ -4,7 +4,7 @@
 
 译者：Noddy
 
-地址：[欧姆定律](https://github.com/NoddyLiu/study_android_things/blob/master/posts/Ohms_Law)
+地址：[欧姆定律](https://github.com/NoddyLiu/study_android_things/blob/master/posts/Ohms_Law.md)
 
 如果你喜欢本译文，请到项目上star一下，点个赞吧，么么哒！！！
 
